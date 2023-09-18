@@ -6,6 +6,8 @@ This project was a part of project internship under the guidance of Prof Dr Vikr
 The refrence for this project is : https://www.youtube.com/watch?v=mHPpCXqQd7Y
 <br>
 <br>
+Check out my LinkedIn post : https://www.linkedin.com/posts/kulkarni-parth_deeplearning-internship-certificate-activity-7065728017435660288-ZP6K
+<br>
 
 Here is a quick tour of the project:
 <br>
