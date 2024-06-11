@@ -1,4 +1,4 @@
-# AudioClassification
+# Audio Classification
 <br>
 This project was a part of project internship under the guidance of Prof Dr Vikram Gadre sir of Indian Institute of Technology Bombay (IIT Bombay) !!
 <br>
