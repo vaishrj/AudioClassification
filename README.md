@@ -2,14 +2,8 @@
 <br>
 This project was a part of project internship under the guidance of Prof Dr Vikram Gadre sir of Indian Institute of Technology Bombay (IIT Bombay) !!
 <br>
-<br>
 The refrence for this project is : https://www.youtube.com/watch?v=mHPpCXqQd7Y
 <br>
-<br>
-
-<br>
-<br>
-
 Here is a quick tour of the project:
 <br>
 ![slide1](https://github-production-user-asset-6210df.s3.amazonaws.com/145101202/268465317-ee0ce551-175f-4bb6-8f09-050a0bc46b44.png)
