@@ -1,6 +1,6 @@
 # Audio Classification
 <br>
-This project was a part of project internship under the guidance of Prof Dr Vikram Gadre sir of Indian Institute of Technology Bombay (IIT Bombay) !!
+This repository contains an Audio Classification project that was part of a project internship under the guidance of Prof. Dr. Vikram Gadre from the Indian Institute of Technology Bombay (IIT Bombay).
 <br>
 <br>
 The refrence for this project is : https://www.youtube.com/watch?v=mHPpCXqQd7Y
